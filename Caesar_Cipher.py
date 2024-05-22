@@ -1,4 +1,4 @@
-from art import logo #impoting logo from the art.py
+from art import logo, alphabet #impoting logo from the art.py
 print(logo)
 
 def caesar(start_text, shift_amount, cipher_direction):
